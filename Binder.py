@@ -1,0 +1,3 @@
+# This file wil govern the order in which the serve rand client procces run
+# Server then client upon app start
+# this feels superfluous...
